@@ -1,5 +1,5 @@
-# 🌱 Plant-watering-system
-#  Soil Moisture and Temperature Monitoring System
+# 🌱 Arduino Smart Irrigation System
+
 
 This project is an **automated irrigation system** that monitors **soil moisture** and **temperature** using an LCD display, relay-controlled water pump, and DS18B20 temperature sensor.
 
